@@ -1,0 +1,5 @@
+#surefire
+#Mon Apr 29 11:27:25 IST 2013
+user.dir=/home/ubuntu/workspace/daemonLog
+localRepository=/home/ubuntu/.m2/repository
+basedir=/home/ubuntu/workspace/daemonLog
