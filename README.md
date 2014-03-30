@@ -1,3 +1,5 @@
+All code written by Liam Quinlan, except where author explicitly stated.
+
 Instructions for execution.
 
 Part 1:
